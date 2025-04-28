@@ -1,2 +1,0 @@
-# HorseRaceSimulator
-# HorseRaceSimulator
